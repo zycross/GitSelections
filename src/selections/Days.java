@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Days {
     public static void main(String[]args){
-        //create Scanner object to take user input
+        //Create the Scanner object to take user input
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter a number between 0 and 6, inclusive:");
         int num = input.nextInt();
